@@ -31,7 +31,7 @@ const data = {
       slug: 'desk-storage-rack',
       category: 'Office Organizers',
       image: '/images/desk_storage_rack.jpg',
-      price: 137,
+      price: 337,
       countInStock: 15,
       brand: 'CB2',
       rating: 4.9,
